@@ -1,0 +1,10 @@
+push a
+push 2
+bind
+push a
+neg
+toString
+println
+toString
+println
+quit
